@@ -20,3 +20,8 @@ Console.WriteLine(a);
 bool b = true;
 Console.WriteLine(b);
 
+// user input/output
+Console.WriteLine("enter a number");
+Console.ReadLine();
+Console.WriteLine("enter your name");
+Console.ReadLine();
