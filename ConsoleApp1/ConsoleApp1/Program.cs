@@ -17,11 +17,23 @@ Console.WriteLine(z);
 char a = 'A';
 Console.WriteLine(a);
 
-bool b = true;
-Console.WriteLine(b);
+//bool b = true;
+//Console.WriteLine(b);
 
-// user input/output
-Console.WriteLine("enter a number");
+//// user input/output
+//Console.WriteLine("enter a number");
+//Console.ReadLine();
+//Console.WriteLine("enter your name");
+//Console.ReadLine();
+
+//operators
+//logical operators
+
+int p = 10;
+int q = 20;
+int r = 30;
+
+Console.WriteLine(p==q&&q==r);
+
 Console.ReadLine();
-Console.WriteLine("enter your name");
-Console.ReadLine();
+
